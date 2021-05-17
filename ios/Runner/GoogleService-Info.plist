@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>909337167810-dauf5p20ue23ju45ne1utj3ja02kq7a5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.909337167810-dauf5p20ue23ju45ne1utj3ja02kq7a5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCiGzNGkEBmk-l0Fwif2rzbPMQKYFid2r4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>909337167810</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.heavytask.fieldpros</string>
+	<key>PROJECT_ID</key>
+	<string>fieldpros-heavytask</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fieldpros-heavytask.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:909337167810:ios:e96b482585e9c6e053b85b</string>
+</dict>
+</plist>
