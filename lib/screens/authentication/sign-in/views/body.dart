@@ -1,6 +1,6 @@
+import '../../../../config/app_config.dart';
 import 'package:flutter/material.dart';
 import '../../../../config/colors.dart';
-import '../../../../config/constants.dart';
 import '../../../../screens/authentication/sign-up/sign-up-screen.dart';
 
 import 'sign-in-form.dart';
@@ -19,11 +19,11 @@ class BodySignIn extends StatelessWidget {
                 height: 32,
               ),
               //TODO: ADD LOGO
-              // Container(
-              //   width: MediaQuery.of(context).size.height * 0.1,
-              //   padding: const EdgeInsets.all(8.0),
-              //   child: Image.asset("assets/logo.jpg"),
-              // ),
+              Container(
+                  width: MediaQuery.of(context).size.height * 0.1,
+                  padding: const EdgeInsets.all(8.0),
+                  // child: Image.asset("assets/logo.jpg"),
+                  child: FlutterLogo()),
               SizedBox(
                 height: 18,
               ),

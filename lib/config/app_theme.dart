@@ -1,4 +1,4 @@
-import '../config/colors.dart';
+import 'colors.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -16,6 +16,6 @@ ThemeData appThemeData() {
     primarySwatch: createMaterialColor(kPrimaryColor),
     primaryTextTheme: TextTheme(headline6: TextStyle(color: kTextColor)),
     visualDensity: VisualDensity.adaptivePlatformDensity,
-    textTheme: GoogleFonts.nunitoTextTheme(),
+    textTheme: GoogleFonts.montserratTextTheme(),
   );
 }

@@ -1,6 +1,6 @@
-# fieldpros
+# Auth Starter Flutter App
 
-A new fieldpros app
+App for starting authentication
 
 ## Getting Started
 

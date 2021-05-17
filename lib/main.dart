@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
-import 'config/apptheme.dart';
+import 'config/app_theme.dart';
 import 'cubit/auth_listener_cubit.dart';
 import 'cubit/sign_in_button_cubit.dart';
 import 'routes/routes.dart';
